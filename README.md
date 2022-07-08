@@ -7,14 +7,15 @@ I'm Joao Paulo Avila, I'm a Front-end engineer at [Zup Innovation](https://www.z
 [![Twitter Follow](https://img.shields.io/twitter/follow/joaopaulo_avila?style=social)](https://twitter.com/joaopaulo_avila)
 [![Linkedin: Joao Paulo Avila](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-paulo-avila-a6173871/)](https://www.linkedin.com/in/joao-paulo-avila-a6173871/)
 
-## ⚡ Technologies
-
 These are some of the technologies and tools that I work with:
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react)
+![Apollo Graphql](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql")
+![Graphql](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql")
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -27,3 +28,4 @@ These are some of the technologies and tools that I work with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
 ![Jest](https://img.shields.io/badge/-jest-green?style=for-the-badge&logo=jest)
+
