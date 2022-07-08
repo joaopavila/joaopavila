@@ -1,4 +1,4 @@
-### Hi there 👋👋👋👋
+### Hi there 👋
 
 ### ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=joaopavila&repo=joaopavila&countColorcountColor)
 
