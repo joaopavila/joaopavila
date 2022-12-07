@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=joaopavila&repo=joaopavila&countColorcountColor)
+### ![Profile Views](https://api.visitorbadge.io/api/visitors?path=joaopavila&label=visitors&countColor=%23263759)
 
 I'm Joao Paulo Avila, I'm a Front-end engineer at [Zup Innovation](https://www.zup.com.br/).
 
